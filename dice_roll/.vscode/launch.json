@@ -5,18 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "myapp",
+            "name": "dice_roll",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "myapp (profile mode)",
+            "name": "dice_roll (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "myapp (release mode)",
+            "name": "dice_roll (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"

@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 
-import 'package:myapp/dice_roller.dart';
+import 'package:dice_roll/dice_roller.dart';
 
 class GradientContainer extends StatelessWidget {
   const GradientContainer({super.key});
-
 
   @override
   Widget build(BuildContext context) {
